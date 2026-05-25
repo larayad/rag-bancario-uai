@@ -30,7 +30,7 @@ Construir un agente corporativo capaz de:
 # Arquitectura Implementada
 
 ```plaintext
-Documentos SGSI
+Documentos BANCO
         ↓
 Chunking
         ↓
