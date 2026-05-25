@@ -137,8 +137,53 @@ Valida:
 * detección preguntas fuera de alcance
 * guardrails básicos
 
+# Evidencias Proyecto RAG Bancario
+
+## Evidencia evaluación consultas reales
+
+Archivo CSV con evaluación de consultas realizadas al agente RAG:
+
+- latencia;
+- fuentes utilizadas;
+- validación fiscalizador;
+- issues detectados;
+- comportamiento frente a preguntas reales.
+
+Link:
+
+https://github.com/larayad/rag-bancario-uai/blob/main/outputs/evaluacion_consultas_reales.csv
+
 ---
 
+## Evidencia registros en base de datos SQLite
+
+Captura de evidencia del registro persistente de interacciones en la tabla `interactions`.
+
+La tabla almacena:
+- timestamp;
+- query;
+- response;
+- fuentes;
+- latencia;
+- resultados fiscalizador.
+
+Link:
+
+https://github.com/larayad/rag-bancario-uai/blob/main/outputs/Registro%20en%20BD.png
+
+---
+
+## Objetivo de las evidencias
+
+Demostrar:
+- funcionamiento del pipeline RAG;
+- retrieval semántico;
+- trazabilidad;
+- persistencia SQL;
+- evaluación de respuestas;
+- arquitectura multiagente básica;
+- control de hallucinations y preguntas fuera de dominio.
+---
 # Registro SQL
 
 Persistencia SQLite de:
