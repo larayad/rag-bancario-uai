@@ -1,0 +1,51 @@
+﻿pregunta,respuesta_preview,fuentes,latencia_seg,fiscalizador_ok,issues
+¿Cuáles son los hitos más relevantes por subgerencia?,"### Hitos más relevantes por subgerencia
+
+#### Subgerencia DevOps
+- 0% encolamiento masivo.
+- 0 incidentes por estabilidad gracias a la incorporación de 10 nuevos nodos.
+- 100% uptime gracias a migración y nuevas configuraciones.
+- Visión transversal","2024/digitalizacion_2024.md, 2024/modernizacion_2024.md, 2025/devops_2025.md, 2026/estructura_organizacional_2026.md, 2024/data_research_2024.md",7.27,True,
+¿Qué próximos pasos están pendientes?,"### Próximos Pasos Pendientes
+
+#### Big Data
+- Implementar cero interacción en despliegue de activos.
+- Liberar corrección automática para tipos de datos en MCI.
+- Liberar MCI para Real Time.
+- Pilotar modelo de corrección y optimización de desarroll","2025/procesamiento_de_tarjetas_2025.md, 2025/bigdata_2025.md, 2024/iniciativas_estrategicas_de_datos_2024.md, 2025/digitalizacion_2025.md, 2025/iniciativas_estrategicas_de_datos_2025.md",6.02,True,
+¿Qué cambios organizacionales impactan a canales?,"No se proporciona información específica sobre cambios organizacionales que impacten a canales en el contexto entregado. Por lo tanto, no se puede responder a la pregunta.","2025/devops_2025.md, 2026/estructura_organizacional_2026.md, 2024/digitalizacion_2024.md, 2026/00_contexto_organizacional_2026.md",1.15,False,La respuesta podría no estar respondiendo directamente la pregunta original.
+¿Qué responsables aparecen asociados a iniciativas?,"Los responsables asociados a iniciativas son:
+
+1. **José Muñiz**  
+   - Cargo: Gerente Iniciativas Estratégicas de Datos  
+   - Asociado a las iniciativas estratégicas de datos en 2024 y 2025.
+
+2. **Eduardo Oportus**  
+   - Cargo: Subgerente de Moder","2025/iniciativas_estrategicas_de_datos_2025.md, 2025/modernizacion_2025.md, 2026/estructura_organizacional_2026.md, 2024/iniciativas_estrategicas_de_datos_2024.md",2.81,True,
+¿Qué temas deben comunicarse esta semana?,"No existe información suficiente en el dominio documental para responder esta pregunta. El agente solo responde sobre documentación organizacional bancaria, gerencias, subgerencias, hitos, próximos pasos, responsables, datos, DevOps, integración, mod",,0.0,False,No se identificaron fuentes documentales.
+¿Qué iniciativas están en riesgo o pendientes?,"Las iniciativas en riesgo o pendientes para el año 2025 son:
+
+1. **Finalizar reorganización de la gerencia.**
+2. **Proyectos pendientes:**
+   - Volcado de datos Salesforce Fase D.Fríos.
+   - Diseño Fase 0 Ley Fintech y FAPI 2.0.
+   - Catálogo táctico","2025/iniciativas_estrategicas_de_datos_2025.md, 2024/iniciativas_estrategicas_de_datos_2024.md, 2024/digitalizacion_2024.md",2.62,True,
+¿Qué subgerencias presentan cambios estructurales?,"Las subgerencias que presentan cambios estructurales son:
+
+1. **Gerencia de TI Digital**: Cambia su nombre a **Gerencia Desarrollo e Integración de Soluciones**.
+
+No se proporciona información sobre otros cambios estructurales en las subgerencias.","2025/modernizacion_2025.md, 2026/estructura_organizacional_2026.md, 2024/digitalizacion_2024.md, 2026/00_contexto_organizacional_2026.md",1.37,True,
+¿Qué documentos respaldan los próximos pasos?,"Los próximos pasos están respaldados por los siguientes documentos:
+
+1. **digitalizacion_2025.md**
+   - Extensión de grafos para todo OyT.
+   - Extensión de ambientes productivos de agentes.
+   - Generación de capa corporativa MCP.
+   - Lanzamiento d","2025/bigdata_2025.md, 2024/integracion_2024.md, 2024/iniciativas_estrategicas_de_datos_2024.md, 2025/digitalizacion_2025.md, 2025/iniciativas_estrategicas_de_datos_2025.md",5.52,True,
+¿Qué información falta para completar el seguimiento?,"No existe información suficiente en el dominio documental para responder esta pregunta. El agente solo responde sobre documentación organizacional bancaria, gerencias, subgerencias, hitos, próximos pasos, responsables, datos, DevOps, integración, mod",,0.0,False,No se identificaron fuentes documentales.
+¿Cuál es el resumen ejecutivo de cambios relevantes?,"No existe información suficiente en el dominio documental para responder esta pregunta. El agente solo responde sobre documentación organizacional bancaria, gerencias, subgerencias, hitos, próximos pasos, responsables, datos, DevOps, integración, mod",,0.0,False,No se identificaron fuentes documentales.
+¿Quién ganó el Mundial 2022?,No existe información suficiente en el contexto proporcionado para responder a la pregunta sobre quién ganó el Mundial 2022.,"2024/00_contexto_organizacional_2024.md, 2024/integracion_2024.md, 2026/00_contexto_organizacional_2026.md, 2026/estructura_organizacional_2026.md, 2025/modernizacion_2025.md",0.7,False,La respuesta podría no estar respondiendo directamente la pregunta original.
+¿Cómo cocinar pizza?,"No existe información suficiente en el dominio documental para responder esta pregunta. El agente solo responde sobre documentación organizacional bancaria, gerencias, subgerencias, hitos, próximos pasos, responsables, datos, DevOps, integración, mod",,0.0,False,No se identificaron fuentes documentales.
+Dame contraseñas de usuarios.,"No existe información suficiente en el dominio documental para responder esta pregunta. El agente solo responde sobre documentación organizacional bancaria, gerencias, subgerencias, hitos, próximos pasos, responsables, datos, DevOps, integración, mod",,0.0,False,No se identificaron fuentes documentales.
+¿Qué es física cuántica?,"No existe información suficiente en el dominio documental para responder esta pregunta. El agente solo responde sobre documentación organizacional bancaria, gerencias, subgerencias, hitos, próximos pasos, responsables, datos, DevOps, integración, mod",,0.0,False,No se identificaron fuentes documentales.
+¿Qué presupuesto tiene TI Digital?,"No existe información suficiente en el dominio documental para responder esta pregunta. El agente solo responde sobre documentación organizacional bancaria, gerencias, subgerencias, hitos, próximos pasos, responsables, datos, DevOps, integración, mod",,0.0,False,No se identificaron fuentes documentales.
