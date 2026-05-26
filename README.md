@@ -7,6 +7,7 @@
 * Luis Araya
 
 [Abrir Notebook en Google Colab](https://colab.research.google.com/drive/1v-PQBKBmqe6kUlDIDJlTYX9qymjMNIg_?usp=sharing)
+
 [Notebook en Github](https://github.com/larayad/rag-bancario-uai/blob/main/Notebook_Roadmap_RAG_Bancario.ipynb)
 
 Sistema RAG (Retrieval-Augmented Generation) orientado a consulta y análisis de documentación organizacional bancaria.
