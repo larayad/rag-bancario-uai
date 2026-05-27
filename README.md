@@ -162,9 +162,9 @@ Se incluye archivo .env.example clon de .env donde se declaran las variables uti
 (por motivos de seuridad sobre exposicion y consumo de apikeys reales). 
 Esto es para fines academicos y que el profesor pueda entender la carga de valores del ambiente
 
-ink:
+Link:
 
-https://github.com/larayad/rag-bancario-uai/blob/main/outputs/evaluacion_consultas_reales.csv
+https://github.com/larayad/rag-bancario-uai/blob/main/env.example
 
 ---
 
