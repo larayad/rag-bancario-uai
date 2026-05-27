@@ -157,6 +157,17 @@ https://github.com/larayad/rag-bancario-uai/blob/main/outputs/evaluacion_consult
 
 ---
 
+## CONFIGURACION DE SECRETOS DE AMBIENTES
+Se incluye archivo .env.example clon de .env donde se declaran las variables utilizadas en el colab pero con valores no validos 
+(por motivos de seuridad sobre exposicion y consumo de apikeys reales). 
+Esto es para fines academicos y que el profesor pueda entender la carga de valores del ambiente
+
+ink:
+
+https://github.com/larayad/rag-bancario-uai/blob/main/outputs/evaluacion_consultas_reales.csv
+
+---
+
 ## Evidencia registros en base de datos SQLite
 
 Captura de evidencia del registro persistente de interacciones en la tabla `interactions`.
